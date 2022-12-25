@@ -108,7 +108,7 @@ img {
 }
 
 .introducao {
-  padding: 20px;
+  padding: 0px 20px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0px 40px;
